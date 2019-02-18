@@ -38,7 +38,7 @@
             // button1
             // 
             this.button1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.button1.Location = new System.Drawing.Point(16, 384);
+            this.button1.Location = new System.Drawing.Point(16, 397);
             this.button1.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(100, 27);
@@ -50,7 +50,7 @@
             // trackBar2
             // 
             this.trackBar2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.trackBar2.Location = new System.Drawing.Point(124, 381);
+            this.trackBar2.Location = new System.Drawing.Point(124, 394);
             this.trackBar2.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.trackBar2.Maximum = 100;
             this.trackBar2.Name = "trackBar2";
@@ -62,7 +62,7 @@
             // 
             this.label2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(371, 387);
+            this.label2.Location = new System.Drawing.Point(371, 400);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(15, 15);
@@ -87,14 +87,14 @@
             this.scatterPlot1.Location = new System.Drawing.Point(16, 14);
             this.scatterPlot1.Margin = new System.Windows.Forms.Padding(5, 3, 5, 3);
             this.scatterPlot1.Name = "scatterPlot1";
-            this.scatterPlot1.Size = new System.Drawing.Size(633, 360);
+            this.scatterPlot1.Size = new System.Drawing.Size(727, 373);
             this.scatterPlot1.TabIndex = 6;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(665, 425);
+            this.ClientSize = new System.Drawing.Size(759, 438);
             this.Controls.Add(this.scatterPlot1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.trackBar2);
