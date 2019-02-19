@@ -79,11 +79,10 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Scatter\Scatter.csproj">
-      <Project>{D02C6625-17E3-41BC-BFD6-D217C83DD3CE}</Project>
+      <Project>{d02c6625-17e3-41bc-bfd6-d217c83dd3ce}</Project>
       <Name>Scatter</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
     <Content Include="img\ing_20190218233539.png" />
   </ItemGroup>

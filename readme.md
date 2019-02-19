@@ -4,10 +4,11 @@
 
 ## Overall
 C# 3D chart plot grammar and demo project which using matrix transform to simulate the 3d scense.
-This project is forked from [Scatter-master](https://github.com/ofirbo/Scatter).
+This project is forked from [Scatter-master](https://github.com/ofirbo/Scatter). In the same time has
+referenced projects of [Plotter3D](https://github.com/foman/Plotter3D) etc
 
 本项目进行今天晚上的改进，实现了坐标轴的绘制，以及指向的明确，方便进一步的开发。
-![效果图](Demo/img/ing_20190218233539.png)
+![效果图](Main/Demo/img/ing_20190218233539.png)
 
 
 ## Plans
@@ -24,4 +25,4 @@ This project is forked from [Scatter-master](https://github.com/ofirbo/Scatter).
 
 ## Versions
 V 0.1.0<br/>
-WNEG  2019.2.19 0003
+WNEG  2019.2.19
